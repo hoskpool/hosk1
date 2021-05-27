@@ -1,0 +1,68 @@
+{
+    "itn": {
+    "owner": "ed25519_pk133vhx20n7h3ra4mztxa4uvm92rdpp32v7l67w6hffemyek2wef2sz54sxy",
+    "witness": "ed25519_sig1ac5tjxtjw39rcltjs5x69m80p69wkdkgxp8nt6l3rzder6f8tlcc55z2vf8yte9eefudh9ytythq44jhhjx3cr3eu800cssz6m4kurchry9f4"
+        },
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "",
+        "1": "",
+        "2": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""        
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "1": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "2": {
+                "name": "",
+                "type": "",
+                "key": ""
+            }
+        }
+    }
+}
