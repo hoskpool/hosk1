@@ -4,12 +4,12 @@
     "witness": "ed25519_sig1ac5tjxtjw39rcltjs5x69m80p69wkdkgxp8nt6l3rzder6f8tlcc55z2vf8yte9eefudh9ytythq44jhhjx3cr3eu800cssz6m4kurchry9f4"
         },
     "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/hoskpool/hosk1/main/hosk_v1_64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/hoskpool/hosk1/main/hosk_v1_1000x1000.png",
         "location": "",
         "social": {
-            "twitter_handle": "",
-            "telegram_handle": "",
+            "twitter_handle": "hoskpool",
+            "telegram_handle": "hoskpoolnews",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -25,14 +25,14 @@
             "vat_id": ""
         },
         "about": {
-            "me": "",
+            "me": "Welcome to Hosk Pool 💛, the official stake pool of The Hoskinsons NFT project. As the official partner of The Hoskinsons NFT project, we are pleased to offer exclusive NFT givebacks to our delegators. Follow us on Twitter at @hoskpool for pool updates, NFT givebacks, and idle banter. We’re also active on Telegram at @hoskpoolnews. 🍻",
             "server": "",
-            "company": ""
+            "company": "A joint Plutus Pioneer and Shelley Testnets Pioneer Production 💛"
         },
         "rss": ""
     },
     "my-pool-ids": {
-        "0": "",
+        "0": "e1c990717560232bf659ca30f50e3b84e79d587d21b821903d11e560",
         "1": "",
         "2": ""
     },
@@ -44,7 +44,7 @@
         "4": ""        
     },
     "telegram-admin-handle": {
-        "0": ""
+        "0": "hoskpool"
     },
     "adapools_ext": {
         "prometheus": {
